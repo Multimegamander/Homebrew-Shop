@@ -1,0 +1,281 @@
+.h4-trbrdr{
+border-top:6px solid #c1272d;
+}
+.h4-mntit{
+color:#111;
+font-size:60px;
+font-weight:700;
+line-height:60px;
+padding:30px 0;
+text-align:center;
+}
+.p4-sp-twoa{
+padding:0 10px 0 20px;
+width:50%;
+}
+.p4-sp-twoa2{
+padding:0 10px 0 0;
+width:50%;
+}
+.p4-sp-twob{
+padding:0 20px 0 10px;
+width:50%;
+}
+.p4-sp-twob2{
+padding:0 0 0 10px;
+width:50%;
+}
+.p4-sp-twob2a{
+padding:0 10px 0 0px;
+width:50%;
+}
+.h4-bsec{
+background-color:#141414;
+cursor:pointer;
+display:table;
+float:left;
+height:280px;
+width:100%;
+}
+.ps4-hl-box{
+background-size:auto 100%;
+box-sizing: border-box;
+display:table-cell;
+padding:0 20px;
+text-align:center;
+vertical-align:middle;
+
+transition:all .2s ease;
+}
+.ps4-hl-box:hover{
+background-size:auto 110%;
+}
+.amzn-native-container {
+margin:auto;
+padding:0 20px;
+}
+.h4-mod-img{
+height:180px;
+}
+.h4-mod-txt-wr{
+border-radius:10px;
+background-color:rgba(0,0,0,.6);
+color:#fff;
+text-shadow:1px 1px 0 #000;
+font-size:17px;
+line-height:20px;
+padding:10px 0;
+}
+.h4-mod-txt-wr > span{
+white-space:nowrap
+}
+.h4-disc-tx{
+color:#fff;
+font-weight:700;
+font-size:28px;
+line-height:28px;
+padding:10px 0;
+}
+.h4-disc-img{
+width:86%;
+max-width:210px;
+}
+.h4-neko-tx1{
+color:#fff;
+font-weight:700;
+font-size:17px;
+line-height:22px;
+padding:10px 0;
+}
+.h4-neko-img{
+max-width:210px;
+width:86%;
+}
+.h4-neko-tx2{
+color:#ddd;
+font-weight:700;
+font-size:12px;
+line-height:22px;
+padding:4px 0;
+}
+.h4-mkr-wr{
+margin-top:60px;
+text-align:center;
+}
+.h4-mkr-wr > div{
+padding:0 10px 40px 20px;
+width:100%;
+}
+.h4-mkr-tt{
+color:#111;
+font-size:40px;
+line-height:40px;
+text-align:center;
+font-weight:700;
+padding: 30px 0;
+}
+.h4-cake-img{
+background-color:#ddd;
+border-radius:10px;
+text-align:center;
+}
+.h4-cake-img img{
+box-shadow:0 0 0 4px #fff,6px 0 0 8px #333,-6px 0 0 12px #ddd;
+border-radius:50%;
+margin:auto;
+max-width:180px;
+text-align:center;
+width:76%;
+}
+.h4-cake-txt{
+color:#111;
+display:inline-block;
+font-family:'Sahitya',serif;
+font-size:21px;
+max-width:800px;
+margin:auto;
+margin-top:20px;
+padding:0 20px;
+text-align:center;
+}
+.h4-soc-wr{
+margin-top:40px;
+}
+.h4-soc-wr > div{
+display:inline-block;
+margin:auto;
+}
+.h4-soc-link{
+display:inline-block;
+background-size:100%;
+background-position:center;
+height:128px;
+margin-right:50px;
+width:128px;
+}
+.h4-xrs-2{
+margin-top:80px;
+}
+.h4-amz-txt1{
+color:#fff;
+font-size:19px;
+font-weight:700;
+line-height:24px;
+padding:10px 0;
+}
+.h4-amz-img{
+max-width:210px;
+width:86%;
+}
+.h4-amz-txt2{
+color:#fff;
+font-size:17px;
+font-weight:700;
+line-height:22px;
+padding:10px 0;
+}
+.h4-swt-text1{
+color:#fff;
+font-size:17px;
+font-weight:700;
+line-height:22px;
+padding:10px 0;
+}
+.h4-swt-img{
+max-width:130px;
+width:86%;
+}
+.h4-swt-text2{
+color:#fff;
+font-weight:700;
+font-size:17px;
+line-height:22px;
+padding:10px 0;
+}
+.h4-msd-img{
+height:180px;
+}
+.h4-msd-txt{
+border-radius:10px;
+background-color:rgba(0,0,0,.6);
+color:#fff;
+font-size:17px;
+line-height:20px;
+padding:10px 0;
+text-shadow:1px 1px 0 #000;
+}
+.h4-prd-wr{
+margin-top:60px;
+text-align:center;
+}
+.h4-prd-wr > div{
+padding-bottom:40px;
+}
+.h4-pr-tt{
+color:#111;
+font-size:40px;
+font-weight:700;
+line-height:40px;
+text-align:center;
+padding: 30px 0;
+}
+.h4-pr-wr-in{
+display:inline-block;
+margin:auto;
+padding:0 20px;
+}
+.h4-pr-lk{
+color:#222;
+display:block;
+float:left;
+margin-top:30px;
+width:50%;
+}
+.h4-pr-lk img{
+width:120px;
+}
+.h4-pr-tx{
+font-size:21px;
+line-height:30px;
+}
+.h4-pr-txt{
+display:inline-block;
+color:#111;
+font-family:'Sahitya',serif;
+font-size:19px;
+max-width:1000px;
+margin:auto;
+margin-top:40px;
+padding:0 20px;
+text-align:center;
+padding:0 40px;
+}
+.h4-pr-bt-wr{
+display:inline-block;
+margin:auto;
+width:100%;
+}
+.h4-pr-bt{
+border-radius:4px;
+background-color:#33b649;
+color:#eee;
+display:block;
+font-size:19px;
+margin:auto;
+margin-top:20px;
+padding:11px 0;
+text-align:center;
+width:75%;
+}
+.h4-pr-bt:hover{
+background-color:#36c64d;
+color:#fff;
+text-decoration:none;
+}
+.h4-pr-bt:active{
+background-color:#2d9f40;
+color:#fff;
+}
+.h4-aff-mrg{
+margin-top:80px;
+}
